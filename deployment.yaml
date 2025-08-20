@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: nginx
-        image: <DOCKER_USERNAME>/demo-nginx:1.0   # replace with your image
+        image: <DOCKER_USERNAME>/demo-nginx:1.1   # replace with your image
         ports:
         - containerPort: 80
